@@ -1,29 +1,29 @@
-[20:16:06] [Client thread/INFO]: Setting user: Player354
-[20:16:10] [Client thread/INFO]: LWJGL Version: 2.9.2
-[20:16:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:rvergis_mymod
-[20:16:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:16:15] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[20:16:15] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:16:15] [Thread-8/INFO]: OpenAL initialized.
-[20:16:15] [Sound Library Loader/INFO]: Sound engine started
-[20:16:18] [Client thread/INFO]: Created: 512x512 textures-atlas
-[20:16:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:rvergis_mymod
-[20:16:20] [Client thread/INFO]: SoundSystem shutting down...
-[20:16:20] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[20:16:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:16:20] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[20:16:20] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:16:20] [Thread-10/INFO]: OpenAL initialized.
-[20:16:21] [Sound Library Loader/INFO]: Sound engine started
-[20:16:22] [Client thread/INFO]: Created: 512x512 textures-atlas
-[20:16:54] [Server thread/INFO]: Starting integrated minecraft server version 1.8
-[20:16:54] [Server thread/INFO]: Generating keypair
-[20:16:54] [Server thread/INFO]: Preparing start region for level 0
-[20:16:55] [Server thread/INFO]: Preparing spawn area: 32%
-[20:16:56] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:17:03] [Server thread/INFO]: Player354[local:E:7dc2d257] logged in with entity id 202 at (-91.46913063008623, 67.0, 198.58070041649174)
-[20:17:03] [Server thread/INFO]: Player354 joined the game
-[20:17:12] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@54c8b990[id=ab5af6cc-0975-34e7-baca-b908d8aa661c,name=Player354,properties={},legacy=false]
+[22:45:42] [Client thread/INFO]: Setting user: Player436
+[22:45:48] [Client thread/INFO]: LWJGL Version: 2.9.2
+[22:45:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:rvergis_mymod
+[22:45:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:45:54] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[22:45:54] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:45:54] [Thread-8/INFO]: OpenAL initialized.
+[22:45:55] [Sound Library Loader/INFO]: Sound engine started
+[22:45:59] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:46:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:rvergis_mymod
+[22:46:02] [Client thread/INFO]: SoundSystem shutting down...
+[22:46:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:46:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:46:02] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[22:46:02] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:46:02] [Thread-10/INFO]: OpenAL initialized.
+[22:46:03] [Sound Library Loader/INFO]: Sound engine started
+[22:46:05] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:46:19] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[22:46:19] [Server thread/INFO]: Generating keypair
+[22:46:19] [Server thread/INFO]: Preparing start region for level 0
+[22:46:20] [Server thread/INFO]: Preparing spawn area: 44%
+[22:46:22] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:46:23] [Server thread/INFO]: Player436[local:E:e5144f4d] logged in with entity id 179 at (-91.46913063008623, 67.0, 198.58070041649174)
+[22:46:23] [Server thread/INFO]: Player436 joined the game
+[22:46:24] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@23b2ddc4[id=01986ee6-ca3c-3b64-bdcd-02039da5963f,name=Player436,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:158) [YggdrasilMinecraftSessionService.class:?]
@@ -44,10 +44,16 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_45]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_45]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
-[20:17:25] [Server thread/INFO]: Player354 has just earned the achievement [Taking Inventory]
-[20:17:25] [Client thread/INFO]: [CHAT] Player354 has just earned the achievement [Taking Inventory]
-[20:18:41] [Server thread/INFO]: Saving and pausing game...
-[20:18:41] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/Overworld
-[20:18:41] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/Nether
-[20:18:41] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/The End
-[20:20:35] [Client Shutdown Thread/INFO]: Stopping server
+[22:46:33] [Server thread/INFO]: Saving and pausing game...
+[22:46:34] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/Overworld
+[22:46:34] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/Nether
+[22:46:34] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/The End
+[22:46:57] [Server thread/INFO]: Stopping server
+[22:46:57] [Server thread/INFO]: Saving players
+[22:46:57] [Server thread/INFO]: Saving worlds
+[22:46:57] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/Overworld
+[22:46:57] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/Nether
+[22:46:57] [Server thread/INFO]: Saving chunks for level 'TinkerAcademyWorld Creative'/The End
+[22:47:16] [Client thread/INFO]: Stopping!
+[22:47:17] [Client thread/INFO]: SoundSystem shutting down...
+[22:47:17] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
